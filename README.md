@@ -11,9 +11,8 @@ I specialize in:
 
 - **Embedded C Programming** for microcontrollers like **AVR** (ATmega32) and **PIC**
 - Designing **COTS drivers** (GPIO, UART, SPI, Timers, PWM, ADC ,Interrupts) , [Here](https://github.com/OmarKhaled-00/AVR_COTS/tree/main/MCAL)
+- Designed Hardware Abstraction Layers (HAL) for components such as Stepper Motor, Servo Motor, LCD, and others. 
 - Real-time systems using **RTOS principles**
-- Communication protocols: **UART**, **SPI**, **I2C**
-- Integration with **ESP8266 Wi-Fi module**
 
 ---
 
