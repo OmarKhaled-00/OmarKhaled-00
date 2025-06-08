@@ -16,7 +16,7 @@ I specialize in:
 
 ---
 
-## 📁 Projects Highlights
+## 📁 Graduation projects focused on Embedded Systems.
 
 - 🔐 **Access Control & Limitation System** (DC motors + IR sensors + elevator logic). [Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_engineering-mechatronics-embeddedsystems-activity-7201962067405205508-o1Rw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
 - 🚨 **Safety Monitoring & Alarm System** (flame, gas, temp, LDR + ESP8266 real-time alert)[Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_embeddedsystems-microcontrollers-atmega32-activity-7203828261896765441-jI9i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
