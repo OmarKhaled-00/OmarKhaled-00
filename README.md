@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Khaled Abd Elmoez Younis
 
-🎓 I'm a 24-year-old Mechatronics Engineering undergraduate, passionate about **Embedded Systems** and **Microcontroller Programming**.
+🎓 I'm a Mechatronics Engineer ,passionate about **Embedded Systems** and **Microcontroller Programming**.
 
 ---
 
@@ -9,22 +9,10 @@
 I specialize in:
 
 - **Embedded C Programming** for microcontrollers like **AVR** (ATmega32) and **PIC**
-- Designing **COTS drivers** (GPIO, UART, SPI, Timers, PWM, ADC)
+- Designing **COTS drivers** (GPIO, UART, SPI, Timers, PWM, ADC ,Interrupts) , [Here](https://github.com/OmarKhaled-00/AVR_COTS/tree/main/MCAL)
 - Real-time systems using **RTOS principles**
 - Communication protocols: **UART**, **SPI**, **I2C**
 - Integration with **ESP8266 Wi-Fi module**
-- Debugging with **Logic Analyzers** and **Oscilloscopes**
-- Working with **PWM**, **interrupts**, and **sensors**
-
----
-
-## 🛠️ Tools (Hands-on experience)
-
-- **IDEs**: MPLAB X, Eclipse, Arduino IDE, Visual Studio Code
-- **Simulators**: Proteus 8 Professional
-- **Compilers**: GCC, MicroC, AVR-GCC
-- **Hardware Tools**: Saleae Logic Analyzer
-- **IoT Platforms**: Blynk IoT
 
 ---
 
@@ -36,23 +24,6 @@ I specialize in:
 - 🏥 **Hospital Reservation Software** (C-based with user/doctor/admin roles, fake app for intruder tracing)
 
 All code and documentation are available in my [GitHub Repositories](https://github.com/OmarKhaledYounis?tab=repositories).
-
----
-
-## 🌐 Languages
-
-- English: Fluent
-- German: A2 Level
-
----
-
-## 🌟 Soft Skills
-
-- Teamwork & Collaboration
-- Problem-Solving
-- Time Management
-- Adaptability
-- Communication & Listening
 
 ---
 
