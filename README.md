@@ -21,7 +21,7 @@ I specialize in:
 - 🔐 **Access Control & Limitation System** (DC motors + IR sensors + elevator logic). [Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_engineering-mechatronics-embeddedsystems-activity-7201962067405205508-o1Rw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
 - 🚨 **Safety Monitoring & Alarm System** (flame, gas, temp, LDR + ESP8266 real-time alert)[Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_embeddedsystems-microcontrollers-atmega32-activity-7203828261896765441-jI9i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
 - 📡 **Real-Time Communication System** (UART/SPI between ATmega32 + cloud sync)[Here](https://drive.google.com/file/d/1cIK4LhfvrbY6V4GstkTynaeZuTq_GgB2/view)
-- 🏥 **Hospital Reservation Software** (C-based with user/doctor/admin roles, fake app for intruder tracing) 
+- 🏥 **Hospital Reservation Software** (C-based with user/doctor/admin roles, fake app for intruder tracing)  [Here](https://github.com/OmarKhaled-00/Hospital-System/tree/main/Reservation_System)
 
 All code and documentation are available in my [GitHub Repositories](https://github.com/OmarKhaledYounis?tab=repositories).
 
