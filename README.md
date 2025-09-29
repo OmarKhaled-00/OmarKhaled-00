@@ -1,44 +1,67 @@
-# 👋 Hi, I'm Omar Khaled Abd Elmoez Younis
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
- I'm a Mechatronics Engineer ,passionate about **Embedded Systems** and **Microcontroller Programming**.
- I'm Cruuentel
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 💻 Embedded Systems Expertise
+###
 
-I specialize in:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-- **Embedded C Programming** for microcontrollers like **AVR** (ATmega32) and **PIC**
-- Designing **COTS drivers** (GPIO, UART, SPI, Timers, PWM, ADC ,Interrupts) , [Here](https://github.com/OmarKhaled-00/AVR_COTS/tree/main/MCAL)
-- Designed Hardware Abstraction Layers (HAL) for components such as Stepper Motor, Servo Motor, LCD, and others. [Here](https://github.com/OmarKhaled-00/AVR_COTS/tree/main/HAL)
-- Real-time systems using **RTOS principles**
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-## 📁 Graduation projects focused on Embedded Systems.
+###
 
-- 🔐 **Access Control & Limitation System** (DC motors + IR sensors + elevator logic). [Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_engineering-mechatronics-embeddedsystems-activity-7201962067405205508-o1Rw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
-- 🚨 **Safety Monitoring & Alarm System** (flame, gas, temp, LDR + ESP8266 real-time alert)[Here](https://www.linkedin.com/posts/omar-khaled-4a85aa271_embeddedsystems-microcontrollers-atmega32-activity-7203828261896765441-jI9i?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEJ5PEABloBk-I_pPlzgtOS0jw7eBO_Uh7Y)
-- 📡 **Real-Time Communication System** (UART/SPI between ATmega32 + cloud sync)[Here](https://drive.google.com/file/d/1cIK4LhfvrbY6V4GstkTynaeZuTq_GgB2/view)
-- 🏥 **Hospital Reservation Software** (C-based with user/doctor/admin roles, fake app for intruder tracing)  [Here](https://github.com/OmarKhaled-00/Hospital-System/tree/main/Reservation_System)
+<h3 align="left">👩‍💻  About Me</h3>
 
-All code and documentation are available in my [GitHub Repositories](https://github.com/OmarKhaledYounis?tab=repositories).
+###
 
----
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-## 🌐 Transition into Full Stack Web Development
+###
 
-After gaining solid experience in **Embedded Systems** and **Hardware Development**, I’ve decided to expand my horizons by diving into the world of **Full Stack Web Development**.
+<h3 align="left">🛠 Language and tools</h3>
 
-This transition reflects my passion for building **complete, scalable, and interactive digital solutions** — from intuitive front-end user experiences to efficient back-end logic and database management.
+###
 
-### 🛠️ Currently Strengthening My Skills In:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-- **Front-End:** HTML, CSS, JavaScript, React  
-- **Back-End:** Node.js, Express  
-- **Databases:** MongoDB, SQL  
-- **Version Control:** Git & GitHub
+###
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
