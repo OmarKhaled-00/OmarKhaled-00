@@ -5,9 +5,9 @@
 <h3 align="center">Software Engineer | React.js | Node.js | Full Stack<br>Embedded Systems Developer</h3>
 
 ###
-<h2 align="center">
-  <span class="typing"></span>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=600&lines=Check+my+repo;Visit+my+social+accounts" />
+</p>
 
 <p align="center">
   <a href="https://your-cv-link.com">
@@ -17,41 +17,6 @@
     <img src="https://img.shields.io/badge/My%20Portfolio-Visit-0a8f3c?style=for-the-badge" />
   </a>
 </p>
-
-<style>
-.typing::after {
-  content: "Check my repo";
-  color: #22c55e;
-  animation: typing 6s steps(20) infinite, blink 0.7s infinite;
-  border-right: 2px solid #22c55e;
-  padding-right: 5px;
-}
-
-/* Typing effect */
-@keyframes typing {
-  0% { content: "C"; }
-  5% { content: "Ch"; }
-  10% { content: "Che"; }
-  15% { content: "Check"; }
-  20% { content: "Check my"; }
-  25% { content: "Check my repo"; }
-
-  50% { content: "V"; }
-  55% { content: "Vi"; }
-  60% { content: "Vis"; }
-  65% { content: "Visit"; }
-  70% { content: "Visit my"; }
-  75% { content: "Visit my social"; }
-  80% { content: "Visit my social accounts"; }
-
-  100% { content: "Check my repo"; }
-}
-
-/* Cursor blink */
-@keyframes blink {
-  50% { border-color: transparent; }
-}
-</style>
 
 ###
 
