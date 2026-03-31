@@ -10,8 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://your-cv-link.com"><h2>🟢 My CV</h2></a>
-  <a href="https://your-portfolio-link.com"><h2>🟢 My Portfolio</h2></a>
+  <a href="https://your-cv-link.com">
+    <img src="https://img.shields.io/badge/My%20CV-View-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
+  </a>
 </p>
 
 ###
