@@ -9,14 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=600&lines=Check+my+repo;Visit+my+social+accounts" />
 </p>
 
-<p align="center">
-  <a href="https://your-cv-link.com">
-    <img src="https://img.shields.io/badge/My%20CV-View-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-   <img src="https://img.shields.io/badge/My%20Portfolio-Visit-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
-  </a>
-</p>
+
 
 ###
 
