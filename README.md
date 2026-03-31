@@ -6,7 +6,7 @@
 
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=600&lines=Check+my+repo;Visit+my+social+accounts" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=30&center=true&vCenter=true&width=600&lines=Check+My+Repositories;Visit+My+Social+Accounts" />
 </p>
 
 <p align="center">
