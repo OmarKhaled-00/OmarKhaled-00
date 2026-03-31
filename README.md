@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">📤 My Social Accounts</h4>
+<h2 align="left">📤 My Social Accounts</h2>
 
 ###
 
@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="center">Web Development Skills</h3>
+<h2 align="center">Web Development Skills</h2>
 
 ###
 
-<h4 align="left">🛠️ Top Technical Skills & Tools</h4>
+<h3 align="left">🛠️ Top Technical Skills & Tools</h3>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h4 align="left">Familiar With</h4>
+<h3 align="left">Familiar With</h3>
 
 ###
 
@@ -108,11 +108,11 @@
 
 ###
 
-<h3 align="center">Embedded Systems Skills</h3>
+<h2 align="center">Embedded Systems Skills</h2>
 
 ###
 
-<h4 align="left">🛠️ Top Technical Skills & Tools</h4>
+<h3 align="left">🛠️ Top Technical Skills & Tools</h3>
 
 ###
 
@@ -132,9 +132,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OmarKhaled-00/OmarKhaled-00/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarKhaled-00/OmarKhaled-00/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarKhaled-00/OmarKhaled-00/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmarKhaled-00/OmarKhaled-00/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
