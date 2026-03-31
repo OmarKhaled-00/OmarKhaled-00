@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://your-cv-link.com"><b>## 🟢 My CV</b></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://your-portfolio-link.com"><b>## 🟢 My Portfolio</b></a>
+  <a href="https://your-cv-link.com"><h2>🟢 My CV</h2></a>
+  <a href="https://your-portfolio-link.com"><h2>🟢 My Portfolio</h2></a>
 </p>
 
 ###
