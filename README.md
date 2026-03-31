@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://your-cv-link.com">
-    <img src="https://img.shields.io/badge/My%20CV-View-0a8f3c?style=for-the-badge" />
+    <b>🟢 My CV</b>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Visit-0a8f3c?style=for-the-badge" />
+    <b>🟢 My Portfolio</b>
   </a>
 </p>
 
