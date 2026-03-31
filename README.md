@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/My%20CV-View-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com">
-   [ <img src="https://img.shields.io/badge/My%20Portfolio-Visit-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+   <img src="https://img.shields.io/badge/My%20Portfolio-Visit-22c55e?style=for-the-badge&color=22c55e&labelColor=22c55e&logoColor=white" />
   </a>
 </p>
 
