@@ -5,6 +5,16 @@
 <h3 align="center">Software Engineer | React.js | Node.js | Full Stack<br>Embedded Systems Developer</h3>
 
 ###
+<p align="left">
+  <a href="https://your-cv-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-View-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit-black?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+###
 
 <h2 align="left">📤 My Social Accounts</h2>
 
