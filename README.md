@@ -132,6 +132,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/OmarKhaled-00/OmarKhaled-00/output/snake.svg" alt="Snake animation" />
 
 ###
